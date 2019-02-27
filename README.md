@@ -1,0 +1,1 @@
+This repo features a mission planning tool for multiple simultaneous drone flights (a.k.a. SWARM flights).
