@@ -17,9 +17,9 @@ import random
 # Set Folder Paths for shapefiles
 # Folder containing missions
 base_path = Path(__file__).parent
-mission_folder = (base_path / "../work_sample/Missions/").resolve()
+mission_folder = (base_path / "../Drone_Mission_Planner_for_SWARMS-master/Missions/").resolve()
 # Folder containing landing zone
-lz_folder = (base_path / "../work_sample/Landing_Zone/LZ_points_WGS.shp").resolve()
+lz_folder = (base_path / "../Drone_Mission_Planner_for_SWARMS-master/Landing_Zone/LZ_points_WGS.shp").resolve()
 
 # Import multiple shapefiles
 def importShapeFiles(folder_directory):
@@ -167,7 +167,7 @@ print("Flight deck approved...")
 
 # Output location for flight plan
 base = Path(__file__).parent
-output_flight_plan = (base / "../work_sample/Flight_Plan").resolve()
+output_flight_plan = (base / "../Drone_Mission_Planner_for_SWARMS-master/Flight_Plan").resolve()
 
 # Output results to csv...
 def outputToCSV(sorties, filePath):
