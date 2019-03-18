@@ -1,4 +1,4 @@
-This repo features a mission planning tool for multiple simultaneous drone flights (a.k.a. SWARM flights). It takes in shapefiles of possible drone flights and a landing/take-off shapefile. The program develops an optimized flight plan to reduce the risk of mid-air drone collissions when flying multiple drones. Use at your own risk.
+This repo features a mission planning tool for multiple simultaneous drone flights (a.k.a. SWARM flights). It takes in shapefiles of possible drone flights and a landing/take-off shapefile. The program develops an optimized flight plan to reduce the risk of mid-air drone collisions when flying multiple drones. Use at your own risk.
 
 # How to use
 Example data is included.
