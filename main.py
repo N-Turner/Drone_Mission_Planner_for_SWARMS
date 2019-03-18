@@ -1,6 +1,4 @@
 # Python 3
-# DroneSeed Take-Home
-# By Nicolas Turner
 
 # To start: navigate to the folder containing this file in your terminal and run: python3 main.py
 
